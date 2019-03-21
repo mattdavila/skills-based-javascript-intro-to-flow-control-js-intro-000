@@ -24,11 +24,11 @@ function ternaryTeenager(age) {return (age>=13 && age<=19) ?
 }
 var phrase ="You are a teenager"
 function switchAge(age) {switch (age){
-    case 13: phrase break;
-    case 14: phrase break;
-    case 15: phrase break;
-    case 16: phrase break;
-    case 17: phrase break;
-    case 18: phrase break;
-    case 19: phrase break;}
+    case 13: return phrase break;
+    case 14: return phrase break;
+    case 15: return phrase break;
+    case 16: return phrase break;
+    case 17: return phrase break;
+    case 18: return phrase break;
+    case 19: return phrase break;}
     default: return "You have an age"}
