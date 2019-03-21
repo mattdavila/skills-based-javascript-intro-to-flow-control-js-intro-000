@@ -30,5 +30,5 @@ function switchAge(age) {switch (age){
     case 16: return phrase break;
     case 17: return phrase break;
     case 18: return phrase break;
-    case 19: return phrase break;}
-    default: return "You have an age"}
+    case 19: return phrase break;
+    default: return "You have an age"}}
